@@ -25,7 +25,7 @@ export const Counter = () => {
         }}
         onClick={handleIncrement}
       >
-        Increment
+        Add 1
       </button>
       <button
         style={{
@@ -38,7 +38,7 @@ export const Counter = () => {
         }}
         onClick={handleDecrement}
       >
-        Decrement
+        Remove 1
       </button>
       <p
         style={{
